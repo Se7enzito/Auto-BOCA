@@ -1,0 +1,81 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Environments ===
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# === IDEs ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === Build ===
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# === Logs & Temp ===
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# === Notebooks & Data ===
+.ipynb_checkpoints
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Coverage & Testing ===
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+junit.xml
+
+# === Mypy & Pyre ===
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# === Project specific ===
+docs/
+respostas/
+database.db
